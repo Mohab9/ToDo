@@ -43,6 +43,14 @@ Swipe a task card to delete it or use the delete icon on the task card.
 
 Drag and drop tasks in the list to reorder them.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/5943c42b-27dc-4bcd-92ac-2521ec2749cf
+
+
+
+
 ## APK
 
 You can download the APK from the following link: [Download APK](https://drive.google.com/drive/folders/13-50Cc1YhInShJSLpnc0VoTHAm_2zTFn)
