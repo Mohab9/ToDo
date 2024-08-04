@@ -45,11 +45,7 @@ Drag and drop tasks in the list to reorder them.
 
 ## Demo
 
-
-https://github.com/user-attachments/assets/5943c42b-27dc-4bcd-92ac-2521ec2749cf
-
-
-
+Watch the demo of the ToDo App in action: [Demo Video](https://github.com/user-attachments/assets/5943c42b-27dc-4bcd-92ac-2521ec2749cf)
 
 ## APK
 
